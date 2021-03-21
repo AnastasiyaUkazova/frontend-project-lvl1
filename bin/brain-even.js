@@ -14,7 +14,6 @@ let time = 0;
 let correctAnswer = '';
 
 while (value) {
-    console.log('!!!');
     const functionRandom = () => {
         const min = 0;
         const max = 100;
