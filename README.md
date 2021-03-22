@@ -8,4 +8,4 @@ $ brain-even
 
 [ ![asciicast]
 (https://asciinema.org/a/tXz6wvmGVZ5cEqmJcdijTHYgz.svg) ]
-(https://asciinema.org/a/tXz6wvmGVZ5cEqmJcdijTHYgz.svg)
+(https://asciinema.org/a/tXz6wvmGVZ5cEqmJcdijTHYgz)
