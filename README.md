@@ -12,3 +12,10 @@ $ brain-even
 $ brain-calc
 ```
 [![asciicast](https://asciinema.org/a/q5zLql4DABeV13PpkEuorc5wU.svg)](https://asciinema.org/a/q5zLql4DABeV13PpkEuorc5wU)
+
+### Run brain-gcd
+```sh
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/6H8uw9mbpHWI1nD8s2FwYReRP.svg)](https://asciinema.org/a/6H8uw9mbpHWI1nD8s2FwYReRP)
+
