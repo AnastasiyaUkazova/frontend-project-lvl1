@@ -16,7 +16,7 @@ while (value) {
   const randomNumber1 = functionRandom(0, 100);
   const randomNumber2 = functionRandom(0, 100);
   const mathOperator = mathOperators[functionRandom(0, mathOperators.length - 1)];
-  const mathExpression = randomNumber1 + mathOperator + randomNumber2;
+  const mathExpression = `${randomNumber1} ${mathOperator} ${randomNumber2}`;
   switch (mathOperator) {
     case '+':
       correctAnswer = randomNumber1 + randomNumber2;
