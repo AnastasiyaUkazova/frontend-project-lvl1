@@ -25,3 +25,8 @@ $ brain-progression
 ```
 [![asciicast](https://asciinema.org/a/o8PfwHATDtU0OcrtjRapvltiB.svg)](https://asciinema.org/a/o8PfwHATDtU0OcrtjRapvltiB)
 
+### Run brain-prime
+```sh
+$ brain-prime
+```
+[![asciicast](https://asciinema.org/a/cxsduqxIDROU1ZVNTWMOAxG8l.svg)](https://asciinema.org/a/cxsduqxIDROU1ZVNTWMOAxG8l)
