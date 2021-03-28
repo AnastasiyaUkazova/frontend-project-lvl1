@@ -35,7 +35,7 @@ while (value) {
     value = true;
     time += 1;
     if (time === 3) {
-      console.log(`Congradulation, ${name}!`);
+      console.log(`Congratulations, ${name}!`);
       value = false;
     }
   } else {
